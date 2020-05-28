@@ -1,7 +1,7 @@
 {
   "galaxy.meteor.com": {
      "env": {
-       "MONGO_URL": "mongodb+srv://rubensgaguiar:kFofH4gKKQwOCRYS@chaincluster-fvzzn.mongodb.net/test?retryWrites=true&w=majority"
+       "MONGO_URL": "mongodb+srv://<login>:<senha>@chaincluster-fvzzn.mongodb.net/test?retryWrites=true&w=majority"
      }
    }
 }
